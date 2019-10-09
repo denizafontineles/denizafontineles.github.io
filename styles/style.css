@@ -6,7 +6,7 @@ a:hover {
     text-decoration: none;
 }
 
-nav a:hover{
+nav a:hover {
     font-weight: 500;
 }
 
@@ -19,7 +19,6 @@ nav a:hover{
 .redes-sociais i {
     color: #7E459B;
     font-size: 1.2rem;
-    
 }
 
 .redes-sociais span {
@@ -30,21 +29,25 @@ nav a:hover{
     color: #7E459B;
     font-weight: 500;
 }
-.icones i{
+
+.icones i {
     font-size: 1.3rem;
 }
-.tamanho-card{
+
+.tamanho-card {
     width: 18rem;
 }
-.imagem-cards{
+
+.imagem-cards {
     height: 40vh;
     object-fit: cover;
     object-position: top;
 }
 
-
-
-
-.cor-link{
+.cor-link {
     color: rgb(199, 141, 228);
+}
+
+.cor-link:hover {
+    color: white;
 }
