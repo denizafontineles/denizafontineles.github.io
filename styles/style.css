@@ -1,0 +1,50 @@
+.bg-roxo {
+    background-color: #7E459B;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+nav a:hover{
+    font-weight: 500;
+}
+
+.imagem-carrosel {
+    height: 65vh;
+    object-fit: cover;
+    object-position: 0 30%;
+}
+
+.redes-sociais i {
+    color: #7E459B;
+    font-size: 1.2rem;
+    
+}
+
+.redes-sociais span {
+    color: black;
+}
+
+.redes-sociais span:hover {
+    color: #7E459B;
+    font-weight: 500;
+}
+.icones i{
+    font-size: 1.3rem;
+}
+.tamanho-card{
+    width: 18rem;
+}
+.imagem-cards{
+    height: 40vh;
+    object-fit: cover;
+    object-position: top;
+}
+
+
+
+
+.cor-link{
+    color: rgb(199, 141, 228);
+}
