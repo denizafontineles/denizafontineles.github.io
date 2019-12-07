@@ -11,7 +11,7 @@ nav a:hover {
 }
 
 .imagem-carrosel {
-    height: 65vh;
+    height: 70vh;
     object-fit: cover;
     object-position: 0 30%;
 }
@@ -27,21 +27,34 @@ nav a:hover {
 
 .redes-sociais span:hover {
     color: #7E459B;
-    font-weight: 500;
+    font-weight: 50px;
 }
 
 .icones i {
-    font-size: 1.3rem;
+    font-size: 2.8rem;
+}
+
+.tamanho-modal {
+    height: 100%;
+    width: 100%;
 }
 
 .tamanho-card {
     width: 18rem;
+    margin: 2rem;
 }
 
 .imagem-cards {
-    height: 40vh;
+    height: 50vh;
     object-fit: cover;
     object-position: top;
+}
+
+.imagem-modal {
+    height: 100rem;
+    width: 30rem;
+    padding-right: 5px;
+
 }
 
 .cor-link {

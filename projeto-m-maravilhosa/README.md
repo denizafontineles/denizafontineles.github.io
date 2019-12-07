@@ -1,0 +1,2 @@
+Projeto realizado com intuito de praticar o conteúdo estudado durante as semanas na Reprograma. 
+Essa landing page foi feita em mobile first e tem como base o projeto M de Maravilhosa como forma de expor nossas inspirações.
